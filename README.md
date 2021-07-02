@@ -3,6 +3,9 @@
 
 experimentall.m 总的GUI设计
 
+![image](https://user-images.githubusercontent.com/74606319/124261234-21c90700-db63-11eb-8598-582a3655ecf6.png)
+
+
 GUI1.m 实验一图像变换GUI
 
 GUI2.m 实验二图像复原GUI
